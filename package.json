@@ -1,0 +1,22 @@
+{
+  "name": "gmca",
+  "version": "1.1.1",
+  "description": "Il s’agit d’un plugin pour le navigateur google chrome, qui permettra, après authentification du professeur et du choix de la classe et de la matière, de détecter la liste des présents et alimenter la base de données pour la séance en cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mady-Camara/Documentation-Google-meet-course-analyser.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "mady-camara <madycamara@esp.sn>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mady-Camara/Documentation-Google-meet-course-analyser/issues"
+  },
+  "homepage": "https://github.com/Mady-Camara/Documentation-Google-meet-course-analyser#readme"
+}
